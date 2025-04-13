@@ -5,3 +5,8 @@ esse arquivo contém informações adicionais para git
 
 # Comandos mais genéricos
 -- Comandos estranhos
+
+# Mais comandos
+JIAEJIEA
+AJEIJAEIAE
+JIAEJIEA
