@@ -3,6 +3,8 @@
 Um curso para iniciantes aprenderem a trabalhar com versionamento de código e repositórios remotos com GitHub.
 
 Além disso, trabalharemos com GitFlow ao final do curso e Virtual Studio Code.
+Link do curso no yt:
+[Curso Git 2025](https://youtube.com/@teomewhy)
 
 # Fluxo de trabalho Git local
 
